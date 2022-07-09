@@ -6,7 +6,7 @@ Binary Tree - Take input of parenthesized expression and create a binary tree fr
 
 
 Postfix Expression Converter - Convert math expression from post to pre and vice versa
-Pre to Post
+
 <img width="406" alt="Screen Shot 2022-07-09 at 12 19 01 PM" src="https://user-images.githubusercontent.com/59486235/178114114-0f56e26f-c9d5-4cfa-938d-d1a559c3f331.png">
-Post to Pre
+
 <img width="337" alt="Screen Shot 2022-07-09 at 12 19 33 PM" src="https://user-images.githubusercontent.com/59486235/178114129-662aea10-80aa-4040-8d0a-eff6d2655bc9.png">
